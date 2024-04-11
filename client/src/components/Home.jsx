@@ -102,9 +102,7 @@ function Home() {
           <p>Everyone needs a good winter jacket.</p>
           <p>Find yours with our collection and more.</p>
         </div>
-        <div  className='hero-button'>
-        <Button onClick={navigate('/shop')} variant="contained" style={{padding: '10px 40px'}}>Shopping Now</Button>
-        </div>
+    
       </div>
     </div>
     <div className="trending-brands">
